@@ -8,6 +8,9 @@ package com.mycompany.programtunjangan;
 /**
  *
  * @author gianp
+ NAMA  : Gian Prakoso
+ Kelas : Sistem Informasi
+ NIM   : 23176034
  */
 import java.util.Scanner;
 
